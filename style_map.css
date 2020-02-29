@@ -6,20 +6,20 @@
 	margin-right: 15px;
 }
 
-#map { 
-    height: 78vh; 
+#map {
+    height: 78vh;
 }
 
-#draggables, #draggables1, #draggables2, #draggables3, #draggables4 {
+.city {
 	padding: 10px;
 	width: 60px;
 	text-align: center;
 	background-color: lightgray;
 	margin: 4px;
 	position: absolute;
-	z-index: 2000; 
+	z-index: 2000;
 }
- 
+
 #droppable {
 	text-align: center;
 }
